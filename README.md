@@ -332,6 +332,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Made with ❤️ by Radim Yassine
 
 </div>
-#   t p - 2 4 
- 
- 
